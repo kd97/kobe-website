@@ -54,6 +54,12 @@ header{
     color: grey;
     font-family: "Lucida Sans Unicode", "Lucida Grande", Arial, Helvetica, sans-serif;
 }
+#logo h1.aaa{
+    line-height:1px;
+    color: grey;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Arial, Helvetica, sans-serif;
+
+}
 
 /* wrap-menu */
 #wrap-menu{
